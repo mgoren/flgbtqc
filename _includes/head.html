@@ -10,7 +10,8 @@
 
   <!-- js -->
   <script src="/assets/js/scripts.js"></script>
-  <script type="text/javascript">
+  <script src="https://kit.fontawesome.com/56e0c4e378.js" crossorigin="anonymous"></script>
+    <script type="text/javascript">
     var images = [{% for file in site.data.images %}"/assets/images/{{ file }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
   </script>
 
