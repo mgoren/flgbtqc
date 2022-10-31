@@ -11,7 +11,8 @@ This page should reference the complete list of FLGBTQC Epistles. If you know of
 
 Click on a name below to see that epistle, or click the "View all" button to see all of them together.
 
-<button class='btn' id='view-all'>View all</button>
+View all
+{: .btn #view-all}
 
 <div id='epistles'>
   {% for epistle in site.data.epistles %}

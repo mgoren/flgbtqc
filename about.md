@@ -12,7 +12,8 @@ It is our hope to offer an oasis to those who have been spurned by the world at 
 
 We gather twice a year, at our Mid-Winter gathering and at the Friends General Conference Annual Gathering of Friends in the summer. At these times we worship together, discern our corporate witness through Meeting for Worship with attention to business, share our individual journeys, celebrate our lives, heal old wounds, and draw sustenance from the Spirit for our work and life in the world. After almost thirty years, we are still learning to spread love in the face of rejection and hostility and to embrace new friends. We have found faith and voice to speak truth to power and the courage to be open to new revelation.
 
-<span class='align-right'>_(adapted from a minute approved 15 Second Month 1999)_</span>
+_(adapted from a minute approved 15 Second Month 1999)_
+{: .align-right}
 
 # Who are Quakers?
 In the Religious Society of Friends (Quakers), people from a variety of backgrounds and beliefs embark together on a spiritual journey. Although their individual beliefs may vary, Quakers share an understanding of a Divine presence in all people.

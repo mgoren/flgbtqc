@@ -1,6 +1,8 @@
-<div class="minute">
-  <h3>{{include.title}}</h3>
-  <span class='close hidden'><i class="fa-solid fa-square-minus"></i></span>
-
-  {%- include {{include.filename}} -%}
+<div class='minute'>
+  <button type='button' class='accordion'>{{include.title}}</button>
+  <div class='content'>
+    <br>
+    {% capture minute %} {% include {{include.filename}} %} {% endcapture %}
+    {{ minute | markdownify }}  
+  </div>
 </div>

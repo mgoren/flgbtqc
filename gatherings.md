@@ -29,6 +29,7 @@ Mid-Winter Gathering is held over the long weekend surrounding U.S. President's 
 - 2005 - Abiquiu, NM
 - 2004 - Burlington, NJ
 - 2003 - Abiquiu, NM
+{: .list-unstyled}
 
 # Summer Gathering at FGC
 
