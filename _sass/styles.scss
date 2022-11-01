@@ -25,7 +25,18 @@ h1 {
 };
 
 .btn {
-  background: #ffc107;
+  background: rgb(189, 188, 188);
+  font-weight: 500;
+  font-size: 1rem;
+  border-radius: 4px;
+  margin: 20px 0;
+  min-width: 80px;
+  transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+
+  &:hover, &:active {
+    background: lightgrey;
+    transition-duration: 0.1s;
+  }
 }
 
 .hidden {

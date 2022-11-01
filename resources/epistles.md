@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minutes
 title: Epistles
 permalink: /resources/epistles/
 ---

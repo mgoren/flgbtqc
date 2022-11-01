@@ -5,15 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
 
-  <!-- stylesheet -->
+  <!-- stylesheet for whole site -->
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
 
-  <!-- js -->
+  <!-- js for whole site-->
   <script src="/assets/js/scripts.js"></script>
-  <script src="https://kit.fontawesome.com/56e0c4e378.js" crossorigin="anonymous"></script>
-    <script type="text/javascript">
+  <script type="text/javascript">
     var images = [{% for file in site.data.images %}"/assets/images/{{ file }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
   </script>
+
+  <!-- page-specific JS -->
+  {% for js in page.js %} <script src="/assets/js/{{ js }}"></script> {% endfor %}
 
   <!-- favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
