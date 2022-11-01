@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Friends for Lesbian, Gay, Bisexual, Transgender, and Queer Concerns 
   is a North American Quaker faith community that affirms that of God in all people.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://flgbtqc.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mgoren.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 # github_username:  
 
