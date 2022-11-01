@@ -1,0 +1,3 @@
+Approved October 2011
+
+Over the past decade, our Meeting community has engaged in worship, deep listening, learning, and sharing of our experiences on same gender marriage. Members of the Ministry and Counsel committee have held several prayerful meetings this summer to reflect on what we have heard from the Meeting community during these years of discernment. We discern that the Sense of our Meeting is that we are now ready, as a community, to support the marriage of same gender couples. We will honor the traditional processes for clearness and oversight of the marriage of all couples who wish to be married under the care of our Meeting community.

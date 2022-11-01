@@ -1,0 +1,5 @@
+Fall 1996
+
+We of Paullina Monthly Meeting of Friends believe that Friends testimony of equality requires a single standard of treatment for all human beings and that all people share in the Light regardless of sexual orientation. We affirm that we welcome all who share our search for Truth. In all aspects of life, it is our wish to recognize as fully as we can the Light within us all by keeping open to the many reflections of that Light.
+
+It is clear that legally at this time we cannot give a same gender couple the privileges and responsibilities which come through official recognition of a marriage. However, we wish to affirm the importance of acceptance, dignity and respect for the union of same-gender couples. Therefore, Paullina Monthly Meeting will follow Friends' procedure as stated in Iowa Yearly Meeting discipline for any couple, regardless of gender who ask for a ceremony of celebration in recognition of their relationship. We commit ourselves to keep dialogue open on this issue within our meeting.

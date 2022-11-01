@@ -1,0 +1,5 @@
+Multnomah Monthly Meeting of the Religious Society of Friends, a Quaker Meeting, is an open and affirming faith community. We welcome all who come as religious seekers to share in worship and fully participate in the activities of our common life. The Religious Society of Friends cherishes a greater than 360-year tradition of witnessing to the spiritual belief in the equality of all people.
+
+Multnomah Monthly Meeting understands that the Divine Source is leading the Meeting to honor the gender identity and expression of each person, as determined by that person. We affirm that gender expression and identity may be fluid and changeable. We recognize that when we embrace the Light within the full spectrum of gender identities in our Meeting, our worship deepens and our community is enriched.
+
+Multnomah Monthly Meeting minutes our commitment to becoming an affirming, safe, and nurturing place for everyone to live fully that which the Spirit is leading them to be. We extend our loving care to people of all genders, including transgender, genderqueer, cisgender, gender non-conforming and intersex persons, their families and friends.

@@ -1,0 +1,7 @@
+March 1995
+
+As Friends, we seek to affirm the many facets of a committed relationship, whether it is heterosexual or homosexual. A committed relationship between two persons involves not only physical acts of love, but also emotional nurturing, spiritual journeying, and intellectual sharing, as well as an understanding of mutual support and a sense of shared values.
+
+Same-gender marriages are not legally recognized by today's society. However, according to sources, such as John Boswell's Same-sex Unions in Premodern Europe, people have had same-sex relationships for centuries, though not always recognized by the laws of the day. We cannot offer legal status to a same-sex union under the care of our meeting, but it is our hope and expectation that, in offering spiritual recognition, this minute will be one small voice for change such that one day there will be legal recognition. There are enough difficulties inherent in simply maintaining a loving and caring relationship for heterosexual couples, yet same-sex couples must endure the prejudices of our society when they choose to make the same commitment. Our own inner leadings of the Divine prompt us to seek to erase such prejudice by reaching out in love to all couples who wish to share their lives together.
+
+We would offer our support and love to any same-sex couple seeking recognition of their love in a ceremony of marriage under the care of Pond Town Friends Meeting.

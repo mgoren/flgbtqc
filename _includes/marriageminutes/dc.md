@@ -1,0 +1,3 @@
+12/13/1998
+
+All unions of two persons that have received approval of the Worship and Family Committee and the Meeting for Business, as outlined in our Handbook, could be called “Marriages” without regard to the gender of the person involved. Friends recognize that some couples, regardless of their gender, may wish to call their union held under the care of the Meeting “a union of commitment,” and the Meeting will allow that nomenclature. Any couple whose union under the Meeting’s care had been called a “unon of commitment,” because the Meeting was not yet open to calling all unions under its care “marriages,” could at the request of the couple, be recorded in the records of the Meeting as a marriage.

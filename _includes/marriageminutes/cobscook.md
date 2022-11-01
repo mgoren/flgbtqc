@@ -1,0 +1,3 @@
+July 18, 1993
+
+Minute 93:43 The meeting addressed the issue of same gender marriages as New England Yearly Meeting requested we do. The meeting would apply the same guidelines and standards to such marriage as we would to a heterosexual marriage as outlined in New England Yearly Meeting Faith and Practice. We recognize that there are additional concerns (legal, economic, and social) involved in same gender marriages, but we have faith that the clearness committee overseeing such a marriage would thoughtfully address those both for the individuals involved and the meeting as a whole. This minute is the result of our beginning attempts to address this issue and we suspect it will evolve as we further pursue the matter.

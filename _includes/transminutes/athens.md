@@ -1,0 +1,5 @@
+November 2018
+
+Athens Friends Meeting affirms that our Meeting has been gifted beyond measure by the presence, participation and Spirit-guided leadership of LGBTQ Friends. We want to say to all who are lesbian, gay, bisexual, transgender, and queer that we stand together. Friends believe that we are all equal before God, and there is that of God in each of us. We aspire to be a safe and loving space and extend our loving care to all who come as seekers to share in worship and the life of our meeting. All are invited to attend and, if so led, to request membership. Membership includes the privilege of marriage under the care of the Meeting.
+
+The Athens Friends Meeting is part of the Religious Society of Friends (Quakers). From the Society’s beginnings in the 1600’s, Friends have sought a religious experience that is personal – free from doctrinal creeds, and from institutional hierarchy. For Friends, religion is more than believing: it leads to acting in the world in the spirit of love. Friends recognize that religious understandings are not static, but that they grow deeper over time and with experience.

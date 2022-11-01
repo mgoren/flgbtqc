@@ -1,2 +1,318 @@
-- title: "test"
-  filename: marriageminutes/test.md
+- title: "Acadia Monthly Meeting - Northeast Harbor, ME (Vassalboro Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/acadia.md
+- title: "Acton Monthly Meeting - West Concord, MA (Salem Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/acton.md
+- title: "Adelphi Monthly Meeting - Adelphi, MD (Baltimore Yearly Meeting)"
+  filename: marriageminutes/adelphi.md
+- title: "Albany Monthly Meeting - Albany, NY (New York Yearly Meeting)"
+  filename: marriageminutes/albany.md
+- title: "Albuquerque Monthly Meeting - Albuquerque, NM (Intermountain Yearly Meeting)"
+  filename: marriageminutes/albuquerque.md
+- title: "Alexandria Monthly Meeting - Alexandria, VA (Baltimore Yearly Meeting)"
+  filename: marriageminutes/alexandria.md
+- title: "Amesbury Monthly Meeting - Amesbury, MA (Salem Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/amesbury.md
+- title: "Ann Arbor Monthly Meeting - Ann Arbor, MI (Lake Erie Yearly Meeting)"
+  filename: marriageminutes/annarbor.md
+- title: "Annapolis Monthly Meeting - Annapolis, MD (Baltimore Yearly Meeting)"
+  filename: marriageminutes/annapolis.md
+- title: "Annapolis Valley Monthly Meeting (formerly Wolfville Monthly Meeting) - Wolfville, NS (Canadian Yearly Meeting)"
+  filename: marriageminutes/annapolis_valley.md
+- title: "Argenta Monthly Meeting - Argenta, BC (Canadian Yearly Meeting) [FGC & FUM] "
+  filename: marriageminutes/argenta.md
+- title: "Atlanta Monthly Meeting - Atlanta, GA (Southern Appalachian Yearly Meeting and Association) [FGC]"
+  filename: marriageminutes/atlanta.md
+- title: "Australia Yearly Meeting"
+  filename: marriageminutes/australia.md
+- title: "Baltimore Monthly Meeting of Friends at Stony Run"
+  filename: marriageminutes/baltimore.md
+- title: "Barnstable Friends Meeting"
+  filename: marriageminutes/barnstable.md
+- title: "Barton-Glover - Barton, VT (Northwest Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/barton.md
+- title: "Beacon Hill Monthly Meeting - Boston, MA (Salem Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/beacon_hill.md
+- title: "Belfast Area Monthly Meeting"
+  filename: marriageminutes/belfast_area.md
+- title: "Belfast Monthly Meeting - Belfast, ME (Vassalboro Quarterly Meeting; New England Yearly Meeting) "
+  filename: marriageminutes/belfast.md
+- title: "Bethesda Monthly Meeting - Bethesda, MD (Baltimore Yearly Meeting)"
+  filename: marriageminutes/bethesda.md
+- title: "Britain Yearly Meeting "
+  filename: marriageminutes/britain_yearly_meeting.md
+- title: "Brooklyn Monthly Meeting - Brooklyn, NY (New York Yearly Meeting) "
+  filename: marriageminutes/brooklyn.md
+- title: "Bloomington Monthly Meeting - Bloomington, IN (Whitewater Quarterly Meeting; Ohio Valley Yearly Meeting)"
+  filename: marriageminutes/bloomington.md
+- title: "Burlington Monthly Meeting - Burlington, VT (Northwest Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/burlington.md
+- title: "Brunswick Monthly Meeting - Topsham, ME (Falmouth Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/brunswick.md
+- title: "Butternuts Monthly Meeting - Oneonta, NY (New York Yearly Meeting) "
+  filename: marriageminutes/butternuts.md
+- title: "Canadian Yearly Meeting "
+  filename: marriageminutes/cym.md
+- title: "Celo Monthly Meeting - Burnsville, NC (Southern Appalachian Yearly Meeting and Association "
+  filename: marriageminutes/burnsville.md
+- title: "Central Philadelphia Monthly Meeting - Philadelpha, PA (Philadelphia Quarterly Meeting; Philadelphia Yearly Meeting)"
+  filename: marriageminutes/central_philadelphia.md
+- title: "Chamisa Preparative Meeting - Preparative to Santa Fe, MM (Intermountain Yearly Meeting)"
+  filename: marriageminutes/chamisa.md
+- title: "Chatham-Summit Monthly Meeting - Chatham, NJ (New York Yearly Meeting)"
+  filename: marriageminutes/chatham.md
+- title: "Chestnut Hill Monthly Meeting - Philadelphia, PA (Philadelphia Quarterly Meeting; Philadelphia Yearly Meeting)"
+  filename: marriageminutes/chestnut_hill.md
+- title: "Claremont Monthly Meeting - Claremont, CA (Southern California Quarterly Meeting; Pacific Yearly Meeting)"
+  filename: marriageminutes/claremont.md
+- title: "Cobscook Monthly Meeting - Whiting, ME (Vassalboro Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/cobscook.md
+- title: "Colorado Springs Monthly Meeting - Colorado Springs, CO (Intermountain Yearly Meeting)"
+  filename: marriageminutes/colorado_springs.md
+- title: "Columbia Monthly Meeting - Columbia, MO (Illinois Yearly Meeting)"
+  filename: marriageminutes/columbia_iym.md
+- title: "Columbia Monthly Meeting - Columbia, SC (Southern Appalachian Yearly Meeting and Association)"
+  filename: marriageminutes/columbia_sayma.md
+- title: "Concord Friends Meeting - Canterbury, NH (Dover Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/concord.md
+- title: "Connecticut Valley Quarterly Meeting (New England Yearly Meeting)"
+  filename: marriageminutes/connecticut.md
+- title: "Croton Valley Monthly Meeting (New York Yearly Meeting, Purchase Quarter)"
+  filename: marriageminutes/croton.md
+- title: "Des Moines Valley Monthly Meeting - Des Moines, IA (Iowa Yearly Meeting - Conservative)"
+  filename: marriageminutes/des_moines.md
+- title: "Detroit Monthly Meeting - Detroit, MI (Lake Erie Yearly Meeting) [FGC]"
+  filename: marriageminutes/detroit.md
+- title: "Dover Monthly Meeting - Dover, NH (Dover Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/dover.md
+- title: "Easton Monthly Meeting - Easton, NY (New York Yearly Meeting)"
+  filename: marriageminutes/easton.md
+- title: "Eggemoggin Reach Monthly Meeting - Sargentville, ME (Vassalboro Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/eggemoggin.md
+- title: "Eugene Monthly Meeting - Eugene, OR (Wilamette Quarterly Meeting; North Pacific Yearly Meeting)"
+  filename: marriageminutes/eugene.md
+- title: "Farmington Monthly Meeting Farmington, ME (Vassalboro Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/farmington.md
+- title: "Fifteenth Street Monthly Meeting New York, NY (New York Yearly Meeting)"
+  filename: marriageminutes/fifteenth_street.md
+- title: "Floyd Monthly Meeting Floyd, VA (Baltimore Yearly Meeting)"
+  filename: marriageminutes/floyd.md
+- title: "Fort Lauderdale Friends Meeting - Fort Lauderdale, FL (Southeastern Yearly Meeting)"
+  filename: marriageminutes/fort_lauderdale.md
+- title: "Framingham Monthly Meeting - Framingham, MA (Salem Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/framingham.md
+- title: "Frankford Monthly Meeting - Philadelphia, PA (Philadelphia Quarterly Meeting; Philadelphia Yearly Meeting"
+  filename: marriageminutes/frankford.md
+- title: "Fresh Pond Monthly Meeting Cambridge, MA (Salem Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/fresh_pond.md
+- title: "Friends House Preparative Meeting - London, England (London Yearly Meeting)"
+  filename: marriageminutes/friends_house.md
+- title: "Friends Meeting at Cambridge - Cambridge, MA (Salem Quarterly Meeting; New England Yearly Meeting) [FGC & FUM] "
+  filename: marriageminutes/cambridge.md
+- title: "Friends Meeting of Washington DC (Baltimore Yearly Meeting)"
+  filename: marriageminutes/dc.md
+- title: "Germantown Monthly Meeting - Philadelphia, PA (Philadelphia Quarterly Meeting; Philadelphia Yearly Meeting) [FGC]"
+  filename: marriageminutes/germantown.md
+- title: "Green Country Monthly Meeting - Tulsa, OK (South Central Yearly Meeting) [FGC]"
+  filename: marriageminutes/green_country.md
+- title: "Green Street Monthly Meeting - Philadelphia, PA (Philadelphia Quarterly Meeting; Philadelphia Yearly Meeting)"
+  filename: marriageminutes/green_street.md
+- title: "Gunpowder Friends Meeting - Sparks, MD (Baltimore Yearly Meeting)"
+  filename: marriageminutes/gunpowder.md
+- title: "Halifax Monthly Meeting - Halifax, NS (Canadian Yearly Meeting)"
+  filename: marriageminutes/halifax.md
+- title: "Hanover Monthly Meeting - Hanover, NH (Northwest Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/hanover.md
+- title: "Harrisburg Monthly Meeting - Harrisburg, PA (Caln Quarterly Meeting; Philadelphia Yearly Meeting)"
+  filename: marriageminutes/harrisburg.md
+- title: "Hartford Monthly Meeting - West Hartford, CT (Connecticut Valley Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/hartford.md
+- title: "Homewood Monthly Meeting - Baltimore, MD (Baltimore Monthly Meeting)"
+  filename: marriageminutes/homewood.md
+- title: "Huntingdon Monthly Meeting - Huntingdon, PA (Upper Susquehanna Quarterly Meeting; Philadelphia Yearly Meeting) "
+  filename: marriageminutes/huntington.md
+- title: "Illinois Yearly Meeting"
+  filename: marriageminutes/iym.md
+- title: "Ithaca Monthly Meeting - Ithaca, NY (New York Yearly Meeting) "
+  filename: marriageminutes/ithaca.md
+- title: "Kalamazoo Monthly Meeting - Kalamazoo, MI (Lake Erie Yearly Meeting)"
+  filename: marriageminutes/kalmazoo.md
+- title: "Kennett Monthly Meeting - Kennett Square, PA (Western Quarterly Meeting; Philadelphia Yearly Meeting)"
+  filename: marriageminutes/kennett.md
+- title: "Kickapoo Valley Monthly Meeting - Gays Mills, WI (Northern Yearly Meeting)"
+  filename: marriageminutes/kickapoo.md
+- title: "Kitchener Area Monthly Meeting - Kitchener, ON (Canadian Yearly Meeting)"
+  filename: marriageminutes/kitchener.md
+- title: "Lancaster Monthly Meeting - Lancaster, PA (Caln Quarterly Meeting; Philadelphia Yearly Meeting)"
+  filename: marriageminutes/lancaster.md
+- title: "Lansdowne Monthly Meeting - Lansdowne, PA (Chester Quarterly Meeting; Philadelphia Yearly Meeting)"
+  filename: marriageminutes/lansdowne.md
+- title: "Lexington Monthly Meeting (Ohio Valley Yearly Meeting)"
+  filename: marriageminutes/lexington.md
+- title: "Logan Monthly Meeting - Logan, UT (Intermountain Yearly Meeting)"
+  filename: marriageminutes/logan.md
+- title: "Madison Monthly Meeting - Madison, WI (Northern Yearly Meeting) [FGC]"
+  filename: marriageminutes/madison.md
+- title: "Meeting for Sufferings, the Executive branch of London Yearly Meeting"
+  filename: marriageminutes/london.md
+- title: "Media Monthly Meeting - Media, PA (Chester Quarterly Meeting; Philadelphia Yearly Meeting) "
+  filename: marriageminutes/media.md
+- title: "Memphis Monthly Meeting - Memphis, TN (Southern Appalachian Yearly Meeting and Association) "
+  filename: marriageminutes/memphis.md
+- title: "Midcoast Monthly Meeting - Damariscotta, ME (Vassalboro Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/midcoast.md
+- title: "Middlebury Monthly Meeting - Middlebury, VT (Northwest Quarterly Meeting; New England Yearly Meeting) [FGC & FUM]"
+  filename: marriageminutes/middlebury.md
+- title: "Middletown Monthly Meeting - Middletown, CT (Connecticut Valley Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/middletown.md
+- title: "Milwaukee Monthly Meeting Milwaukee, WI (Northern Yearly Meeting) [FGC]"
+  filename: marriageminutes/milwaukee.md
+- title: "Monadnock Monthly Meeting - Jaffrey, NH (Northwest Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/jaffrey.md
+- title: "Monthly Meeting of the Friends of Philadelphia (Philadelphia Quarterly Meeting; Philadelphia Yearly Meeting)"
+  filename: marriageminutes/philadelphia.md
+- title: "Montclair Monthly Meeting - Upper Montclair, NJ (New York Yearly Meeting)"
+  filename: marriageminutes/montclair.md
+- title: "Morningside Monthly Meeting - New York, NY (New York Yearly Meeting) [FUM, FGC]"
+  filename: marriageminutes/morningside.md
+- title: "Mount Toby Monthly Meeting - Leverett, MA (Connecticut Valley Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/mount_toby.md
+- title: "Mountain View Monthly Meeting - Denver, CO (Intermountain Yearly Meeting)"
+  filename: marriageminutes/mountain_view.md
+- title: "Multnomah Monthly Meeting - Portland, OR (Willamette Quarterly Meeting; North Pacific Yearly Meeting)"
+  filename: marriageminutes/multnomah.md
+- title: "Narramissic Valley Meeting - Bucksport, ME (Vassalboro Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/narramissic.md
+- title: "Nashville Monthly Meeting - Nashville, TN (Southern Appalachian Yearly Meeting and Association)"
+  filename: marriageminutes/nashville.md
+- title: "New Bedford Monthly Meeting - New Bedford, MA (Sandwich Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/new_bedford.md
+- title: "New Brunswick Monthly Meeting - New Brunswich, NJ (New York Yearly Meeting)"
+  filename: marriageminutes/new_brunswick.md
+- title: "New England Yearly Meeting"
+  filename: marriageminutes/neym.md
+- title: "New Haven Monthly Meeting - New Haven, CT (Connecticut Valley Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/new_haven.md
+- title: "New Paltz Monthly Meeting - New Paltz, NY (New York Yearly Meeting) "
+  filename: marriageminutes/new_paltz.md
+- title: "North Columbus Friends Meeting"
+  filename: marriageminutes/north_columbus.md
+- title: "North Shore Monthly Meeting - Beverly Farms, MA (Salem Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/north_shore.md
+- title: "Northampton Monthly Meeting - Northampton, MA (Connecticut Valley Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/northampton.md
+- title: "North Meadows Circle of Friends - Indianapolis, IN (Whitewater Quarterly Meeting; Ohio Valley Yearly Meeting)"
+  filename: marriageminutes/north_meadows.md
+- title: "North Pacific Yearly Meeting"
+  filename: marriageminutes/npym.md
+- title: "Northside Monthly Meeting - Chicago, IL (Chicago North Quarterly Meeting; Illinois Yearly Meeting) "
+  filename: marriageminutes/northside.md
+- title: "Northwest Quarterly Meeting (New England Yearly Meeting)"
+  filename: marriageminutes/northwest_quarterly_neym.md
+- title: "Ohio Valley Yearly Meeting"
+  filename: marriageminutes/ohio_valley.md
+- title: "Orange Grove Monthly Meeting - Pasadena, CA (Southern California Quarterly Meeting; Pacific Yearly Meeting) "
+  filename: marriageminutes/orange_grove.md
+- title: "Orono Monthly Meeting - Orono, ME (Vassalboro Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/orono.md
+- title: "Oxford Monthly Meeting - Oxford, OH (Miami Quarterly Meeting; Ohio Valley Yearly Meeting)"
+  filename: marriageminutes/oxford.md
+- title: "Pacific Yearly Meeting"
+  filename: marriageminutes/pacific_yearly_meeting.md
+- title: "Palm Beach Monthly Meeting - Palm Beach, FL (Southeastern Yearly Meeting)"
+  filename: marriageminutes/palm_beach.md
+- title: "Paullina Monthly Meeting - Paullina, IA (Iowa Yearly Meeting - Conservative)"
+  filename: marriageminutes/paullina.md
+- title: "Patapsco Monthly Meeting - Ellicott City, MD (Baltimore Yearly Meeting)"
+  filename: marriageminutes/patapsco.md
+- title: "Penn Valley Monthly Meeting - Kansas City, MO (Iowa Yearly Meeting - Conservative)"
+  filename: marriageminutes/penn_valley.md
+- title: "Pima Monthly Meeting - Pima, AZ (Intermountain Yearly Meeting)"
+  filename: marriageminutes/pima.md
+- title: "Philadelphia Yearly Meeting"
+  filename: marriageminutes/philadelphia_yearly_meeting.md
+- title: "Pondtown Monthly Meeting - Winthrop, ME (Vassalboro Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/pondtown.md
+- title: "Portland Monthly Meeting - Portland, ME (Falmouth Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/portland_maine.md
+- title: "Providence Monthly Meeting - Providence, RI (Rhode Island-Smithfield Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/providence.md
+- title: "Purchase Monthly Meeting - Purchase, NY (New York Yearly Meeting)"
+  filename: marriageminutes/purchase.md
+- title: "Putney Monthly Meeting - Putney, VT (Northwest Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/putney.md
+- title: "Red Cedar Monthly Meeting - Lansing, MI (Lake Erie Yearly Meeting) [FGC]"
+  filename: marriageminutes/red_cedar.md
+- title: "Richmond Monthly Meeting - Richmond, VA (Baltimore Yearly Meeting) [FGC & FUM]"
+  filename: marriageminutes/richmond.md
+- title: "Rochester Monthly Meeting - Rochester, NY (New York Yearly Meeting) [FGC & FUM]"
+  filename: marriageminutes/rochester.md
+- title: "Sacramento Monthly Meeting - Sacramento, CA (College Park Quarterly Meeting; Pacific Yearly Meeting) [FGC]"
+  filename: marriageminutes/sacramento.md
+- title: "Salem Quarterly Meeting (New England Yearly Meeting)"
+  filename: marriageminutes/salem_quarterly_neym.md
+- title: "Salt Lake Monthly Meeting - Salt Lake City, UT (Intermountain Yearly Meeting)"
+  filename: marriageminutes/salt_lake.md
+- title: "Sandwich Monthly Meeting - East Sandwich, MA/Falmouth, MA/Yarmouth, MA (Sandwich Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/sandwich.md
+- title: "Santa Cruz Monthly Meeting - Santa Cruz, CA (College Park Quarterly Meeting; Pacific Yearly Meeting) "
+  filename: marriageminutes/santa_cruz.md
+- title: "Santa Fe Monthly Meeting - Santa Fe, NM (Intermountain Yearly Meeting) "
+  filename: marriageminutes/santa_fe.md
+- title: "Scarsdale Monthly Meeting (New York Yearly Meeting)"
+  filename: marriageminutes/scarsdale.md
+- title: "Seaville Monthly Meeting - Seaville, NJ (Salem Quarterly Meeting; Philadelphia Yearly Meeting)"
+  filename: marriageminutes/seaville.md
+- title: "Smithfield Monthly Meeting - Woonsocket, RI (Rhode Island-Smithfield Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/smithfield.md
+- title: "South Bend Monthly Meeting - South Bend, IN (Chicago South Quarterly Meeting; Illinois Yearly Meeting)"
+  filename: marriageminutes/south_bend.md
+- title: "South Berkshire Monthly Meeting - Great Barrington, MA (Connecticut Valley Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/south_berkshire.md
+- title: "South Central Yearly Meeting "
+  filename: marriageminutes/scym.md
+- title: "Southern California Quarterly Meeting (Pacific Yearly Meeting) "
+  filename: marriageminutes/southern_ca_pym.md
+- title: "St. Petersburg Monthly Meeting - St.Petersburg, FL (Southeastern Yearly Meeting) [FUM & FGC]"
+  filename: marriageminutes/st_petersburg.md
+- title: "Storrs Monthly Meeting - Storrs, CT (Connecticut Valley Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/storrs.md
+- title: "Sweden Yearly Meeting"
+  filename: marriageminutes/sweden_yearly_meeting.md
+- title: "Summit Monthly Meeting - NJ"
+  filename: marriageminutes/summit.md
+- title: "Tallahassee Monthly Meeting - Tallahassee, FL (Southeastern Yearly Meeting)"
+  filename: marriageminutes/tallahassee.md
+- title: "Toronto Monthly Meeting - Toronto, Ontario (Canadian Yearly Meeting) "
+  filename: marriageminutes/toronto.md
+- title: "Transvaal Monthly Meeting - South Africa "
+  filename: marriageminutes/transvaal.md
+- title: "Twin Cities Monthly Meeting - St. Paul, MN (Northern Yearly Meeting)  [FGC]"
+  filename: marriageminutes/twin_cities.md
+- title: "Unami Monthly Meeting - Pennsburg, PA (Abington Quarterly Meeting; Philadelphia Yearly Meeting)"
+  filename: marriageminutes/unami.md
+- title: "University Friends Meeting - Seattle, Washington (Pacific Northwest Quarterly Meeting; North Pacific Yearly Meeting)"
+  filename: marriageminutes/ufm.md
+- title: "Utah Friends Fellowship (Intermountain Yearly Meeting) "
+  filename: marriageminutes/utah.md
+- title: "Vancouver Monthly Meeting - Vancouver, BC (Canadian Yearly Meeting) [FGC & FUM] "
+  filename: marriageminutes/vancouver.md
+- title: "Waterboro Monthly Meeting - Maine"
+  filename: marriageminutes/waterboro.md
+- title: "Wellesley Monthly Meeting - Wellesley, MA (Salem Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/wellesley.md
+- title: "Westbury Monthly Meeting - Westbury, NY (New York Yearly Meeting)"
+  filename: marriageminutes/westbury.md
+- title: "Westerly Monthly Meeting - Westerly, RI (Rhode Island-Smithfield Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/westerly.md
+- title: "Westfield Monthly Meeting - Cinnaminson, NJ (Haddonfield Quarterly Meeting; Philadelpha Yearly Meeting)"
+  filename: marriageminutes/westfield.md
+- title: "Williamsburg Monthly Meeting - Williamsburg, VA (Baltimore Yearly Meeting) "
+  filename: marriageminutes/williamsburg.md
+- title: "Winnipeg Monthly Meeting - Winnipeg, Manitoba (Canadian Yearly Meeting) [FGC & FUM]"
+  filename: marriageminutes/winnipeg.md
+- title: "Winthrop Center Friends Church - Winthrop, ME (Vassalboro Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/winthrop.md
+- title: "Yarmouth Preparative Meeting - South Yarmouth, ME (Sandwich Quarterly Meeting; New England Yearly Meeting)"
+  filename: marriageminutes/yarmouth.md
+- title: "Yellow Springs Monthly Meeting - Yellow Springs, OH (Ohio Valley Yearly Meeting)"
+  filename: marriageminutes/yellow_springs.md

@@ -1,0 +1,5 @@
+January 2005
+
+Minute on Same-Gender Marriage or Committed Relationships
+
+Winthrop Center Friends Church is committed to the testimony of equality of all people in the eyes of the law and of God. We feel called to practice a single standard of treatment for all committed relationships. We will deal with requests for same-gender unions in the same way as we deal with those between heterosexual couples. We believe such a practice to be in accordance with the Spirit which speaks through the scriptures and which continues to guide us today. We affirm the spiritual nature of a life-long commitment between partners whatever the combination of genders, and it is our intention to support such commitments. The couple involved may refer to their union by whatever name they choose. Maine law does not at this time provide a legal foundation for the marriage of a same gender couple. We will encourage such couples to put into place the legal documents that approximate as much as possible the legal responsibilities and privileges of a civil marriage.

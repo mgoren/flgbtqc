@@ -1,0 +1,5 @@
+February, 1996
+
+Framingham Monthly Meeting affirms our belief in that of God in every person. Furthermore, we attest that this belief embraces all persons regardless of sexual orientation. Framingham affirms that all couples, including those of the same gender, have equal opportunity to be married in the manner of Friends, under the care of the Meeting. The love between these couples, as it grows, will enrich their relationship, the Meeting and the World at large. The Meeting is committed to supporting these couples according to their need.
+
+Framingham Meeting acknowledges the Certificate of Marriage signed by the couple and those present at the ceremony as the witness of Friends to the couple's spiritual union. Mindful that only mixed gender couples among us currently have the rights to legally sanctioned marriage and its privileges, the Meetings asks Friends and particularly couples preparing for marriage, to examine how best to respond and bear witness to the inequalities still present in the legal system.

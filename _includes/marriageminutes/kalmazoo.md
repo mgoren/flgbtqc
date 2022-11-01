@@ -1,0 +1,1 @@
+We joyfully affirm our willingness as a Meeting to sanctify celebrations of marriage for couples regardless of gender or sexual orientation. ĘWe intend to follow the good order of Friends in arriving at clearness for all couples who are led to unite under our loving care.

@@ -1,0 +1,5 @@
+The following statement was approved at the meeting for business of February 16, 1992:
+
+The Meeting recognizes in the unique traditional manner of Friends that no official of the Meeting marries a couple, but that the Meeting witnesses and celebrates the vows of the couple to each other.
+
+It is therefore the sense of the Meeting that Ann Arbor Friends Meeting provides a clearness and oversight process for couples in the Meeting, whether of different sex or the same sex. If it is so recommended by the clearness committee and approved by the meeting for business, the Meeting witnesses and celebrates the couple's commitment to each other, takes their relationship under its care, and gives its ongoing support. Couples have some lati­tude in the words they choose to use in their vows to each other; they may use the word marriage if they choose to do so. The Clerk or his/her representative signs appropriate legal documents certifying that the commitment has been witnessed after the manner of Friends.

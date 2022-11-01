@@ -1,0 +1,5 @@
+2007
+
+The clerk of the meeting referred to a communication from Montclair Monthly Meeting dealing with their concerns about Friends United Meeting (FUM) and asked that the documents be posted to the Scarsdale Meeting website for Scarsdale Friends to consider.
+
+Friends noted that Scarsdale Meeting has been engaged for some time with the questions raised by FUM's policies toward gay and lesbian Friends whom we dearly love. Scarsdale Friends Meeting is in unity in finding these policies abhorrent. Although the meeting agreed that NYYM should remain affiliated with FUM, it recommended that NYYM communicate to FUM that it considers the personnel policies of FUM related to gays and lesbians contrary to the inclusive ministry of Jesus. The Meeting approved this minute. The clerk will send this minute to Purchase Quarterly Meeting and New York Yearly Meeting and request that it be put on the agenda of New York Yearly Meeting fall sessions. The clerk will also respond to Montclair Monthly Meeting, thanking them for sharing their concerns.

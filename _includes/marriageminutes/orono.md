@@ -1,0 +1,3 @@
+June 1994
+
+Orono Monthly Meeting offers guidance and support to all couples whether they be of the same or opposite gender, who desire spiritual recognition of their commitment to each other according to God's will. Orono Friends intend to follow the same careful practice of holding clearness committee meetings with each couple, using Friends' traditions and concerns and the written guidance of Faith and Practice of New England Yearly Meeting. When a Meeting participates in a marriage, certain obligations are assumed for nurturing the relationship. For this reason, Orono Friend Meeting wishes to establish an ongoing spiritual relationship with one or both people before the clearness process begins.

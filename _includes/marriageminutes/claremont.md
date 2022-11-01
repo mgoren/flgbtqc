@@ -1,0 +1,3 @@
+2/1990
+
+Claremont Friends stated in their annual State of the Meeting Report that they had in the past year “attempted to increase our understanding of lesbian and gay persons” resulting in two minutes. (1) In October 1989 they minuted that gay and lesbian persons should enjoy equal opportunity and protection under law, and they seek to become more supportive of non-exploitive, loving relationships. (2) In February 1990, they “will consider requests for marriage and for other forms of solemn commitment under the care of the Meeting without discrimination based on gender. Procedures for clearness are described in Faith and Practice.

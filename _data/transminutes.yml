@@ -1,2 +1,24 @@
-- title: "test"
-  filename: transminutes/test.md
+- title: "Adelphi Friends Meeting"
+  filename: transminutes/adelphi.md
+- title: "Athens Friends Meeting"
+  filename: transminutes/athens.md
+- title: "Atlanta Friends Meeting"
+  filename: transminutes/atlanta.md
+- title: "Baltimore Monthly Meeting of Friends at Stony Run"
+  filename: transminutes/baltimore.md
+- title: "Bloomington-Normal Friends Meeting (Illinois Yearly Meeting)"
+  filename: transminutes/bloomington.md
+- title: "Multnomah Monthly Meeting"
+  filename: transminutes/multnomah.md
+- title: "Norman Monthly Meeting"
+  filename: transminutes/norman.md
+- title: "North Columbus Friends Meeting"
+  filename: transminutes/columbus.md
+- title: "North Pacific Yearly Meeting"
+  filename: transminutes/npym.md
+- title: "Northside Friends Meeting (Illinois Yearly Meeting)"
+  filename: transminutes/northside.md
+- title: "Salmon Bay Monthly Meeting"
+  filename: transminutes/salmonbay.md
+- title: "University Friends Meeting"
+  filename: transminutes/university.md
