@@ -7,7 +7,7 @@ title: Home
 _Friends for Lesbian, Gay, Bisexual, Transgender, and Queer Concerns_ is a North American Quaker faith community that affirms that of God in all people. Gathering twice yearly for worship and play, we draw sustenance from each other and from the Spirit for our work and life in the world. We are learning that radical inclusion and radical love bring further light to Quaker testimony and life. [[More]](/about)
 
 # Online Worship
-We are currently offering monthly online worship. For more information, email [Lewis Steller](mailto:{{treasurer.email}}).
+We are currently offering monthly online worship. For more information, email the [Clerks](mailto:{{clerks.email}}).
 
 # Gatherings
 We will gather at the 2023 [FGC Gathering](https://www.fgcquaker.org/fgcprograms/the-gathering/) July 2rd - July 8th. All are welcome to attend.

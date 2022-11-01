@@ -2,7 +2,7 @@
   <button type='button' class='accordion'>{{include.title}}</button>
   <div class='content'>
     <br>
-    {% capture minute %} {% include {{include.filename}} %} {% endcapture %}
-    {{ minute | markdownify }}  
+    {% capture content %} {% include {{include.filename}} %} {% endcapture %}
+    {{ content | markdownify }}
   </div>
 </div>
