@@ -2,7 +2,6 @@
 layout: default
 permalink: /resources/listfaq
 ---
-{%- include people.html -%}
 
 # Email List Frequently Asked Questions
 
@@ -25,7 +24,7 @@ permalink: /resources/listfaq
  Signature lines are lines that identify who you are. Some folks email programs don't list the address, or list only the list address and not the sender's address. Try to add a line or two to your message with your name and location!
 
  7. What rules are peculiar to this email list?
- When this email list was originally set up confidentiality was a big issue. While most email lists allow you to get a listing of subscribers, you can not get such a listing on this email list. The [email list manager](mailto:{{email_list_manager.email}}) is the only person who may subscribe new members or obtain a listing of all members.
+ When this email list was originally set up confidentiality was a big issue. While most email lists allow you to get a listing of subscribers, you can not get such a listing on this email list. The [email list manager](mailto:{{layout.email_list_manager.email}}) is the only person who may subscribe new members or obtain a listing of all members.
 
  8. Any other rules peculiar to this email list?
  While the temptation to debate and criticize is strong and usually productive, it is not the purpose of this email list. There are other Quaker email lists where you may debate the finer points of Quaker theology and life to your heart's content. But you can expect to be eldered if you do that here. Think of this email list as a form of Quaker dialogue. We do not debate here. Most of the things you post should clearly communicate who *you* are, and should not comment on someone else's ideas or life. Share what has been true for you, with as much personal detail as you have the courage to muster. Think about this email list as a heart circle, where we share what is in our hearts and not what is in our heads. One person's message may spark something in your heart. Respond! Another person's message may spark some ideas in your head. Keep silent and perhaps send them a personal message asking for clarification! Poems, stories, life's journeys are meant to be shared, not criticized or clarified. If you don't understand a message, send that person a private email, but only after you've asked yourself if you really do need to clarify or to criticize.
@@ -34,16 +33,16 @@ permalink: /resources/listfaq
  Remember that this email list is like a community bulletin board, or a community campfire. Whatever you say gets sent out to everyone when you send your message to the list or when you hit your reply button. Don't use your reply button without first asking if you want your message to go out to everyone! If you want your message to be private, then look up at the header of the message you want to respond to and there you will find the sender's email address. If you don't find the person's email address, check your mailing program. There is usually an option that needs to be toggled in order to see the full email header with that person's email address. Most mailing programs default to a short header, which omits the senders email address.
 
  10. Do I have to unsubscribe when I go on vacation so that messages don't build up while I'm gone?
- If you wish to unsubscribe, or to simply keep messages from coming to you while you are on vacation, there are commands you send to the automated list server's address (_not_ the list itself!).  If you need these instructions, please contact the [email list manager](mailto:{{email_list_manager.email}}).
+ If you wish to unsubscribe, or to simply keep messages from coming to you while you are on vacation, there are commands you send to the automated list server's address (_not_ the list itself!).  If you need these instructions, please contact the [email list manager](mailto:{{layout.email_list_manager.email}}).
 
  11. What do I do if I'm having problems sending or receiving messages?
- Send a private message to the [email list manager](mailto:{{email_list_manager.email}}). He'll do as much as he can to help resolve the problem. Be prepared though to tell me what email program you're using, who your service provider is, and what specific error messages you are getting.
+ Send a private message to the [email list manager](mailto:{{layout.email_list_manager.email}}). He'll do as much as he can to help resolve the problem. Be prepared though to tell me what email program you're using, who your service provider is, and what specific error messages you are getting.
 
  12. Sometimes when I send a message I get an error message back. Should I be concerned?
- Always forward a copy of any error messages to the [email list manager](mailto:{{email_list_manager.email}}). Usually it's because someone's address is no longer working, or has temporarily quit working. He will follow up those errors and attempt to contact the person to find out what is going on. If you yourself are unable to send a message, make sure you are sending your message from the same address with which you are subscribed, otherwise your message will be rejected for security reasons. You can _only_ send email to the list from the address you subscribed with.  If you change your email address, you will need to tell the [email list manager](mailto:{{email_list_manager.email}}).
+ Always forward a copy of any error messages to the [email list manager](mailto:{{layout.email_list_manager.email}}). Usually it's because someone's address is no longer working, or has temporarily quit working. He will follow up those errors and attempt to contact the person to find out what is going on. If you yourself are unable to send a message, make sure you are sending your message from the same address with which you are subscribed, otherwise your message will be rejected for security reasons. You can _only_ send email to the list from the address you subscribed with.  If you change your email address, you will need to tell the [email list manager](mailto:{{layout.email_list_manager.email}}).
 
  13. Is this a moderated or an unmoderated email list?
  While this email list began as a moderated email list (messages were first sent to the list manager and then out to everyone), this email list has been for a long time now unmoderated. All messages are sent out to everyone as soon as they are received. The list manager (Email List Manager) makes no decisions about how this list operates without first seasoning things with the clerks of FLGBTQC, and usually brought to Meetings for Business at gatherings. Please do not send comments about how the list is run to the email list. If you have concerns, send them to the clerks and the list manager so they can be brought to Meeting for Business to be discussed with everyone there. This is not a public email list. It is an extension of gatherings and any changes in the way it operates should be made at gatherings.
 
  14. Any other questions?
- Send comments, concerns, and any other questions to the [email list manager](mailto:{{email_list_manager.email}}).
+ Send comments, concerns, and any other questions to the [email list manager](mailto:{{layout.email_list_manager.email}}).

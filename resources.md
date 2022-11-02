@@ -3,7 +3,6 @@ layout: page
 title: Outreach/Resources
 permalink: /resources/
 ---
-{%- include people.html -%}
 
 {: #epistles}
 # Epistles
@@ -13,7 +12,7 @@ In the Quaker tradition, an epistle is a letter of greeting or a specific messag
 
 {: #marriageminutes}
 # Collection of Marriage Minutes
-These minutes regarding same-sex marriages and other committment ceremonies have been collected by members of the FLGBTQC faith community. If you know of additional minutes you would like to see added, please email them to the [website manager](mailto:{{website_manager.email}}).
+These minutes regarding same-sex marriages and other committment ceremonies have been collected by members of the FLGBTQC faith community. If you know of additional minutes you would like to see added, please email them to the [website manager](mailto:{{layout.website_manager.email}}).
 
 [View Collection of Marriage Minutes](/resources/marriageminutes)
 
@@ -33,7 +32,7 @@ We have been invited by the law firm Kramer Levin to participate as signatories 
 # Newsletter
 We are in the process of launching an electronic newsletter.
 
-<!-- Contributions are welcome! We welcome plain (unformatted) electronic submissions of writing, art, and photographs (photographers: please be sure that subjects in your photos have given permission for their images to be published here). Note that we do not print ads or classified ads. Send electronic sumissions to the [newsletter editor](mailto:{{newsletter_editor.email}}). -->
+<!-- Contributions are welcome! We welcome plain (unformatted) electronic submissions of writing, art, and photographs (photographers: please be sure that subjects in your photos have given permission for their images to be published here). Note that we do not print ads or classified ads. Send electronic sumissions to the [newsletter editor](mailto:{{layout.newsletter_editor.email}}). -->
 
 <!-- **Subscribing to the electronic newsletter:** Sign up on [this form](https://goo.gl/forms/6MaDrZBk9f9DhXow2) to receive future electronic newsletter mailings. -->
 
@@ -47,7 +46,7 @@ This pamphlet was last updated June 2014. Please send us feedback, especially co
 
 {: #listserv}
 # Email List
-If you are known to FLGBTQC (you have been to one of our Gatherings), you can email the [email list manager](mailto:{{email_list_manager.email}}) to be added to our email list. It averages 3-4 emails a day.
+If you are known to FLGBTQC (you have been to one of our Gatherings), you can email the [email list manager](mailto:{{layout.email_list_manager.email}}) to be added to our email list. It averages 3-4 emails a day.
 
 From our [Email List Frequently Asked Questions](/resources/listfaq):
 
