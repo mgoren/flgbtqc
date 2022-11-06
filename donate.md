@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Donate
-permalink: /resources/donate/
+permalink: /donate/
 ---
 
 # Making a Donation

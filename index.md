@@ -23,7 +23,7 @@ We are collecting [Marriage Minutes](/resources#marriageminutes) written by Quak
 We are collecting [Minutes that specifically welcome and affirm transgender people](/resources#transminutes). We ask that minutes included on this page be primarily concerned with transgender inclusion.  We are also collecting minutes that more generally affirm lesbian, gay, bisexual, transgender, and queer people. Please contact the [Clerks](mailto:{{layout.clerks.email}}) for more information.
     
 # Donations
-FLGBTQC appreciates donations to support our community.  We accept donations [by mail](/resources/donate).
+FLGBTQC appreciates donations to support our community.  We accept donations [by mail](/donate).
 
 This document summarizes some of the important elements of the Leading that shapes FLGBTQC and asks each of us to consider thoughtfully several ways to support the Leading &mdash; including financial gifts. [[PDF](/docs/donate/2009AppealActionFinances.pdf), [DOC](/docs/donate/2009AppealActionFinances.doc)]
 
