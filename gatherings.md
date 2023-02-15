@@ -11,7 +11,7 @@ Each February, we meet for a long weekend dedicated to FLGBTQC work and play. Ou
 
 # Mid-Winter Gathering
 
-Mid-Winter Gathering is held over the long weekend surrounding U.S. President's Day. The 2018 Midwinter Gathering was held at Camp Young Judaea near Austin, Texas. More information is available [here](https://sites.google.com/view/midwinter-gathering-2018/home).
+Mid-Winter Gathering is held over the long weekend surrounding U.S. President's Day. The 2018 Midwinter Gathering was held at Camp Young Judaea near Austin, Texas.
 
 # Recent Mid-Winter Gathering Locations
 - 2018 - Austin, TX
