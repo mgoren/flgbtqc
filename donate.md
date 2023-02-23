@@ -7,7 +7,7 @@ permalink: /donate/
 # Making a Donation
 We gratefully thank you for supporting FLGBTQC. 
 
-You can reach our treasurer by email [here](email:{{layout.treasurer.email}}).
+You can reach our treasurer by email [here](mailto:{{layout.treasurer.email}}).
 
 Donations can be sent via Venmo to [@FLGBTQC](https://venmo.com/flgbtqc).
 
