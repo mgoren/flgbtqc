@@ -9,7 +9,9 @@ We gratefully thank you for supporting FLGBTQC.
 
 You can reach our treasurer by email [here](email:{{layout.treasurer.email}}).
 
-Checks may be sent to the treasurer: 
+Donations can be sent via Venmo to [@FLGBTQC](https://venmo.com/flgbtqc).
+
+Alternatively, checks may be sent to the treasurer:
 > {{layout.treasurer.address}}
 
 Please make checks payable to FLGBTQC.
