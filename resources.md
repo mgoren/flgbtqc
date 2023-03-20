@@ -26,7 +26,7 @@ These are minutes welcoming and affirming transgender people. Friends are encour
 # Friend of the Court Briefs
 We have been invited by the law firm Kramer Levin to participate as signatories to several friend of the court briefs in cases in the United States regarding religious communities' support for equal rights for LGBTQIA+ people. Here are some of them.
 
-[View Friend of the Court Briefs](https://www.fgcquaker.org/cloud/friends-lesbian-gay-bisexual-transgender-and-queer-concerns/resources/friend-court-briefs)
+[View Friend of the Court Briefs](/resources/briefs)
 
 {: #newsletter}
 # Newsletter
