@@ -10,7 +10,7 @@ You can contact the Heart Team at [heart@flgbtqc.org](mailto:heart@flgbtqc.org).
 
 You can contact the Care Team at [care@flgbtqc.org](mailto:care@flgbtqc.org).
 
-Our clerk is {{layout.clerks.name}} &mdash; [{{layout.clerks.email}}](mailto:{{layout.clerks.email}})
+You can contact the co-clerks at [{{layout.clerks.email}}](mailto:{{layout.clerks.email}}).
 
 Our newsletter editor is {{layout.newsletter_editor.name}} &mdash; [{{layout.newsletter_editor.email}}](mailto:{{layout.newsletter_editor.email}})
 
