@@ -11,9 +11,18 @@ Each February, we meet for a long weekend dedicated to FLGBTQC work and play. Ou
 
 # Mid-Winter Gathering
 
-Mid-Winter Gathering is held over the long weekend surrounding U.S. President's Day. The 2018 Midwinter Gathering was held at Camp Young Judaea near Austin, Texas.
+Mid-Winter Gathering is held over the long weekend surrounding U.S. President's Day.
+
+2024:
+Regional gatherings are in the works in Atlanta and Seattle, with some parts of Midwinter planned to be held online. Email [heart@flgbtqc.org](mailto:heart@flgbtqc.org) for more info. 
 
 # Recent Mid-Winter Gathering Locations
+
+- 2023 - Midwinter Gathering held online
+- 2022 - Midwinter Gathering held online
+- 2021 - Midwinter Gathering held online
+- 2020 - mini-gathering held in Philadelphia, PA; mini-gathering in Seattle, WA canceled due to covid
+- 2019 - mini-gatherings held in Seattle, WA, and Philadelphia, PA
 - 2018 - Austin, TX
 - 2017 - Portland, OR
 - 2015 - Burlington, NJ
