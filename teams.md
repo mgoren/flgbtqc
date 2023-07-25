@@ -20,4 +20,11 @@ The Listening Line occurs when friends are available to listen to concerns, diff
 
 ![listening line](/assets/images/listeningline.png)
 
-[https://tinyurl.com/CareTeamConnect](https://tinyurl.com/CareTeamConnect)
+The Listening Line for FLGBTQC
+
+The Community Care and Resource team is available for several periods during the week on video. 
+See calendar at [https://tinyurl.com/FLGBTQCalendar](https://tinyurl.com/FLGBTQCalendar).
+
+It is also possible to arrange an individual visit with a listener. Contact [care@flgbtqc.org](mailto:care@flgbtqc.org).
+
+Please fill out the Care form at [https://tinyurl.com/CareTeamConnect](https://tinyurl.com/CareTeamConnect) as it will clarify what kind of support would be most helpful to you.
