@@ -54,6 +54,10 @@ From our [Email List Frequently Asked Questions](/resources/listfaq):
 
 > "Think of this list as a form of Quaker dialogue. We do not debate here. Most of the things you post should clearly communicate who \*you\* are... share what has been true for you, with as much personal detail as you have the courage to muster."
 
+{: #calendar}
+# Calendar
+We have an FLGBTQC calendar, which you can access [here](https://tinyurl.com/FLGBTQCalendar). Google provides the option to subscribe to this calendar so that you will be able to see it with your own calendars.
+
 {: #eachofus}
 # Each of Us Inevitable
 _[Each of Us Inevitable](/resources/each_of_us_inevitable)_ is a collection of some keynote addresses given at FLGC Mid-Winter and other gatherings between 1977 and 1993. The speakers discuss coming to terms with one's identity and direction. The collection of talks was edited by Robert Leuze. A newly expanded 2nd edition is available in print from the [FGC Bookstore](https://quakerbooks.org/products/each-of-us-inevitable-4185) and from [Pendle Hill](http://www.pendlehill.org/bookstore.html).
