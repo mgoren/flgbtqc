@@ -18,7 +18,7 @@ The Care team is a sub-team to the Heart. It is responsible for individual care 
 
 <!-- The Listening Line occurs when friends are available to listen to concerns, difficulties – even just venting, etc. on Zoom. We are not therapists or counselors, but caring listeners. These periods are marked on the [FLGBTQC calendar](https://tinyurl.com/FLGBTQCalendar). This service can be accessed by texting the Care team at care@flgbtqc.org. -->
 
-![listening line](/assets/images/listeningline.png)
+<!-- ![listening line](/assets/images/listeningline.png) -->
 
 FLGBTQC's Listening Line
 need support or just to be heard?
