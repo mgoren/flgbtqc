@@ -55,8 +55,8 @@ From our [Email List Frequently Asked Questions](/resources/listfaq):
 > "Think of this list as a form of Quaker dialogue. We do not debate here. Most of the things you post should clearly communicate who \*you\* are... share what has been true for you, with as much personal detail as you have the courage to muster."
 
 {: #calendar}
-# Calendar
-We have an FLGBTQC calendar, which you can access [here](https://tinyurl.com/FLGBTQCalendar). Google provides the option to subscribe to this calendar so that you will be able to see it with your own calendars.
+<!-- # Calendar
+We have an FLGBTQC calendar, which you can access [here](https://tinyurl.com/FLGBTQCalendar). Google provides the option to subscribe to this calendar so that you will be able to see it with your own calendars. -->
 
 {: #eachofus}
 # Each of Us Inevitable
