@@ -16,15 +16,15 @@ The Heart Team attempts to follow joy and spiritual leadings, rather than moving
 ## Care Team
 The Care team is a sub-team to the Heart. It is responsible for individual care &mdash; through the listening line (during the hours it is available) and one-to-one sessions. It can also set up committees of care and clearness (including testing a leading), as well as online support groups as needed.  Contact the Care team at [care@flgbtqc.org](mailto:care@flgbtqc.org) for access to the listening line or to arrange individual support.
 
-<!-- The Listening Line occurs when friends are available to listen to concerns, difficulties – even just venting, etc. on Zoom. We are not therapists or counselors, but caring listeners. These periods are marked on the [FLGBTQC calendar](https://tinyurl.com/FLGBTQCalendar). This service can be accessed by texting the Care team at care@flgbtqc.org. -->
+The Listening Line occurs when friends are available to listen to concerns, difficulties – even just venting, etc. on Zoom. We are not therapists or counselors, but caring listeners. These periods are marked on the [FLGBTQC calendar](https://tinyurl.com/flgbtqc-calendar-view). This service can be accessed by texting the Care team at care@flgbtqc.org.
 
 <!-- ![listening line](/assets/images/listeningline.png) -->
 
 FLGBTQC's Listening Line
 need support or just to be heard?
 
-<!-- The Care team is available for several periods during the week on Zoom.
-See calendar at [https://tinyurl.com/FLGBTQCalendar](https://tinyurl.com/FLGBTQCalendar). -->
+The Care team is available for several periods during the week on Zoom.
+See calendar at [https://tinyurl.com/flgbtqc-calendar-view](https://tinyurl.com/flgbtqc-calendar-view).
 
 It is also possible to arrange an individual visit with a listener. Contact [care@flgbtqc.org](mailto:care@flgbtqc.org).
 
