@@ -11,7 +11,7 @@ We are currently offering monthly online worship. For more information, email [{
 # Gatherings
 Mid-Winter Gathering is held over the long weekend surrounding U.S. President’s Day. The 2024 Midwinter Gathering will be held virtually Friday, February 16 - Monday, February 19.
 
-We will gather at the 2023 [FGC Gathering](https://www.fgcquaker.org/fgcprograms/the-gathering/) July 2rd - July 8th. All are welcome to attend.
+We will gather at the 2024 [FGC Gathering](https://www.fgcquaker.org/fgcprograms/the-gathering/) June 30th - July 6th. All are welcome to attend.
 
 # Outreach and Resources
 We have an active [email list](/resources#listserv), for all who have come to our Gatherings. Contact the [Email List Manager](mailto:{{layout.email_list_manager.email}}) for more information.
