@@ -42,4 +42,4 @@ A regional gathering is in the works in Atlanta, with most of Midwinter planned 
 
 # Summer Gathering at FGC
 
-Summer Gathering is a week-long event held around the 4th of July. The 2023 [FGC Gathering](https://www.fgcquaker.org/fgcprograms/the-gathering/) will be in Monmouth, Oregon.
+Summer Gathering is a week-long event held around the 4th of July. The 2024 [FGC Gathering](https://www.fgcquaker.org/fgcprograms/the-gathering/) will be in Haverford, PA.
