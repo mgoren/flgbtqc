@@ -14,7 +14,7 @@ Each February, we meet for a long weekend dedicated to FLGBTQC work and play. Ou
 Mid-Winter Gathering is held over the long weekend surrounding U.S. President's Day.
 
 2024:
-Regional gatherings are in the works in Atlanta and Seattle, with some parts of Midwinter planned to be held online. Email [heart@flgbtqc.org](mailto:heart@flgbtqc.org) for more info. 
+A regional gathering is in the works in Atlanta, with most of Midwinter planned to be held online. Email [heart@flgbtqc.org](mailto:heart@flgbtqc.org) for more info. 
 
 # Recent Mid-Winter Gathering Locations
 

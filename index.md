@@ -9,7 +9,7 @@ _Friends for Lesbian, Gay, Bisexual, Transgender, and Queer Concerns_ is a North
 We are currently offering monthly online worship. For more information, email [{{layout.clerks.email}}](mailto:{{layout.clerks.email}}).
 
 # Gatherings
-Mid-Winter Gathering is held over the long weekend surrounding U.S. President’s Day. The 2023 Midwinter Gathering will be held virtually Friday, February 17 - Monday, February 20 on the theme of, "Our Queer Hearts: Relationships, Non/monogamy, and More". There is NO COST to attend. More information and registration can be found [here](https://zoom.us/meeting/register/tJMud--qrDwoH9eC0yCvn6w_NT-UwZx73k4Q).
+Mid-Winter Gathering is held over the long weekend surrounding U.S. President’s Day. The 2024 Midwinter Gathering will be held virtually Friday, February 16 - Monday, February 19.
 
 We will gather at the 2023 [FGC Gathering](https://www.fgcquaker.org/fgcprograms/the-gathering/) July 2rd - July 8th. All are welcome to attend.
 
