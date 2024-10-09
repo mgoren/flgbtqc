@@ -10,10 +10,14 @@
   filename: transminutes/bym.md
 - title: "Bloomington-Normal Friends Meeting (Illinois Yearly Meeting)"
   filename: transminutes/bloomington.md
+- title: "Halifax Monthly Meeting"
+  filename: transminutes/halifax.md
 - title: "Memphis Friends Meeting"
   filename: transminutes/memphis.md
 - title: "Multnomah Monthly Meeting"
   filename: transminutes/multnomah.md
+- title: "New York Yearly Meeting"
+  filename: transminutes/nyym.md
 - title: "Norman Monthly Meeting"
   filename: transminutes/norman.md
 - title: "North Columbus Friends Meeting"
@@ -22,6 +26,8 @@
   filename: transminutes/npym.md
 - title: "Northside Friends Meeting (Illinois Yearly Meeting)"
   filename: transminutes/northside.md
+- title: "Orange County Friends Meeting"
+  filename: transminutes/orangecounty.md
 - title: "Salmon Bay Monthly Meeting"
   filename: transminutes/salmonbay.md
 - title: "University Friends Meeting"
